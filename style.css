@@ -2,6 +2,21 @@
     box-sizing: border-box;
 }
 
+
+
 .teams col {
     overflow: hidden;
 }
+
+.user-node {
+    border: 2px solid rgb(0, 255, 13);
+    text-align: center;
+    padding: 0.5rem!important;
+    border-radius: 0.25rem!important;
+}
+
+#teams-inputs {
+    outline: none;
+    border: none;
+}
+
