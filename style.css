@@ -1,0 +1,7 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+.teams col {
+    overflow: hidden;
+}
